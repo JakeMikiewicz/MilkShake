@@ -1,3 +1,8 @@
+// Java Milkshake file
+
+// November 18 update:
+// I will be completely rewriting this file to incorporate the Factory pattern design. I feel better working on that type of design pattern.
+
 import java.util.*;
 
 public class Milkshake {
