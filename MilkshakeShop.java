@@ -2,6 +2,9 @@
 // Jake Mikiewicz
 // Due in December 2022
 
+// November 18 update
+// I will be incorporating the factory pattern into this file in the future, so I'll re-write this.
+
 import java.util.Scanner;
 import util;
 import util.Milkshake;
